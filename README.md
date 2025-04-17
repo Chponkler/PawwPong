@@ -54,5 +54,5 @@ python main.py
 ![image](https://github.com/user-attachments/assets/c4869a38-2b57-4f97-b887-425ebd7181ca)
 ![image](https://github.com/user-attachments/assets/fd312de1-8b0b-48b5-9bc1-907f9f7ee917)
 
--Игра вдохнавлена работой Goodis
+-Игра вдохнавлена работой Goodgis
 https://www.youtube.com/watch?v=Nsfuj8hFrVU&t=11s
